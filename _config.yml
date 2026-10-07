@@ -2,4 +2,4 @@ title: Whatever title you want here
 logo: /images/avatar.jpg
 description: Avatar to be replace...
 show_downloads: true
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-cayman
